@@ -1,0 +1,16 @@
+{
+  "name": "prueba-render-express",
+  "version": "1.0.0",
+  "description": "una prueba para ver cómo va render cuando le ponemos algo de express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
